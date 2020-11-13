@@ -1,0 +1,14 @@
+{
+  "name": "advanced-javascript-udemy-course",
+  "version": "1.0.0",
+  "description": "Based on Advanced Javascript course by Asim Hussain on Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
