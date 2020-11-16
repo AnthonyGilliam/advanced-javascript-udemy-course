@@ -1,3 +1,5 @@
+//use strict
+
 // New line characters are captured as they are in a template string
 let msg = `hello
 world's
